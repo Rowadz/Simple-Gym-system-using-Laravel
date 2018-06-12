@@ -1,6 +1,6 @@
 # Database Application programming Project
 
-### This is a Gym implementation using Laravel 5.5 and Bootstrap for a class in university calls database application programming.
+### This is a Gym implementation using Laravel 5.5 and Bootstrap for a class in university called database application programming.
 ### semester : October 2017 to February 2018
 ### For  doctor Eman El-Naji.
 # Database
