@@ -1,0 +1,26 @@
+.navbar{
+  border-bottom: #008ed6 4px solid;
+}
+body{
+  overflow-x: hidden;
+  margin: 0 !important;
+    font-family: 'Spectral SC', serif;
+}
+html{
+  margin: 0;
+}
+.row{
+
+  height: 100% !important;
+}
+
+.card:hover{
+  opacity: 0.8;
+}
+.btn:hover{
+	cursor: pointer;
+}
+::selection {
+    color: black !important; 
+    background: whitesmoke !important; 
+}
